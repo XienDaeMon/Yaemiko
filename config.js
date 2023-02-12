@@ -9,6 +9,7 @@
 // • Rominaru
 // • Kannachann
 // • The.Sad.Boy01
+// • Xien Dae Mon
 // • Rasel comel
 // • Xtreshe (Beban)
 // • Dll
@@ -45,31 +46,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/OktaModz'
-global.sgh = 'https://github.com/ChataOfc'
+global.sig = 'https://instagram.com/xiandaemon?igshid=ZDdkNTZiNTM='
+global.sgh = 'https://github.com/XienDaeMonsc
+'
 global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '087865346175'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co.id/oktakc'
+global.pgopay = '081269734000'
+global.ppulsa = '081269734000'
+global.ppulsa2 = '087865346175'
+global.psaweria = 'https://saweria.co.id/XienDaeMon'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
+global.nomorbot = '6287865346175'
+global.nomorown = '6281269734000'
 global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nameown = 'Xien Dae Mon'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6281269734000', 'Xien Dae Mon', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +116,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 YaeMiko-MD あ⁩ 」' //Main Watermark
-global.wm2 = 'Yaee🤤'
-global.wm3 = '⫹⫺ ʏᴀᴇᴍɪᴋᴏ'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
+global.wm = '「 Xien Dae Mon 」' //Main Watermark
+global.wm2 = 'Dae Mon'
+global.wm3 = 'Dae Mon'
+global.botdate = `Tanggal: ${week} ${date}`
+global.bottime = `Waktu : ${wktuwib}`
+global.titlebot = '🌱 ┊ Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -132,7 +134,7 @@ global.giflogo = 'https://telegra.ph/file/6b4b92d088f95aa6a244b.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.wait = 'Loading...'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -145,24 +147,24 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/25677558edc61ac8609b6.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '99999999999' // default 10TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊•' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenut = '' //top
+global.dmenub = '' //body
+global.dmenub2 = '' //body for info cmd on Default menu
+global.dmenuf = '' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━━━═┅═❏ *🅓🅐🅢🅗🅑🅞🅐🅡🅓* ❏═┅═━━━━━┅'
-global.cmenut = '❏––––––『'                       //top
-global.cmenuh = '』––––––'                        //header
-global.cmenub = '┊✦ '                            //body
-global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
-global.pmenus = '┊'                              //pembatas menu selector
+global.dashmenu = '_*Dashboard*_'
+global.cmenut = '『'                       //top
+global.cmenuh = '』'                        //header
+global.cmenub = ''                            //body
+global.cmenuf = ''                //footer
+global.cmenua = '' //after
+global.pmenus = ''                              //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
@@ -173,7 +175,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nY\na\ne\nM\ni\nk\no\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nX\ni\ne\nn\nD\na\ne\nM\no\nn\n𝗕\n𝗢\n𝗧\n\n Whatsapp BOT`
 
 global.multiplier = 38 // The higher, The harder levelup
 
